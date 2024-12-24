@@ -1,0 +1,4 @@
+/mnt/c/Kaspersky/Tic-tak-toe game/build/CMakeFiles/client.dir
+/mnt/c/Kaspersky/Tic-tak-toe game/build/CMakeFiles/server.dir
+/mnt/c/Kaspersky/Tic-tak-toe game/build/CMakeFiles/edit_cache.dir
+/mnt/c/Kaspersky/Tic-tak-toe game/build/CMakeFiles/rebuild_cache.dir
